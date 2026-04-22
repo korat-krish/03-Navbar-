@@ -1,0 +1,23 @@
+Day - 03 
+
+Project Name : Responsive Navbar 
+
+Goal : User can show navbar in other device 
+
+Features : 
+
+	View navbar in all type device properly 
+
+Flow :
+
+	when user enter this navbar from mobile device then it will show properly and click on menu bar then open other option
+
+UI plan :
+
+	create one header 
+	UL list 
+
+Logic :  
+	
+	- user enter from another device it can scale device length and then show it as per device size 
+	- and hamburger show when device size is below xs
